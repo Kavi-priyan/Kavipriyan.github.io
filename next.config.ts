@@ -1,7 +1,13 @@
-import type { NextConfig } from 'next';
+/** @type {import('next').NextConfig} */
+const isGithubPages = process.env.GITHUB_PAGES === 'true';
 
-const nextConfig: NextConfig = {
-    /* config options here */
+const nextConfig = {
+  output: 'export',
+  basePath: isGithubPages ? '/Kavipriyan.github.io' : '',
+  assetPrefix: isGithubPages ? '/Kavipriyan.github.io/' : '',
+  images: {
+    unoptimized: true,
+  },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
