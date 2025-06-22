@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // 👈 tells Next.js to statically export
-  // basePath: '/<repo-name>', 👈 optional if you're not deploying to a subfolder
+  output: 'export',
+  // ...other config options
 };
 
 module.exports = nextConfig;
