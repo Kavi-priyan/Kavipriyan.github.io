@@ -50,7 +50,7 @@ const Banner = () => {
                         <span className="font-medium text-foreground">
                            Kavi Priyan
                         </span>
-                        . Frontend developer crafting sleek, high-performance, and scalable web experiences — with precision and purpose.
+                        . The Frontend developer who designs seamless, fast, and scalable user interfaces with precision and purpose.
                     </p>
                     <Button
                         as="link"
