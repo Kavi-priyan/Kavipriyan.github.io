@@ -280,7 +280,7 @@ export const PROJECTS: IProject[] = [
 
 export const MY_EXPERIENCE = [
     {
-        title: 'Frontend Developer Interm',
+        title: 'Frontend Developer Intern',
         company: 'Neura Technologies',
         duration: 'June 2024',
     },
