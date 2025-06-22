@@ -56,7 +56,7 @@ const AboutMe = () => {
             <div className="container" ref={container}>
                 <h2 className="text-4xl md:text-6xl font-thin mb-20 slide-up-and-fade">
                     I believe in a user centered design approach, ensuring that
-                    every project I work on is tailored to meet the specific
+                    every project I undertake is thoughtfully tailored to meet the specific
                     needs of its users.
                 </h2>
 
@@ -73,18 +73,18 @@ const AboutMe = () => {
                     <div className="md:col-span-7">
                         <div className="text-lg text-muted-foreground max-w-[450px]">
                             <p className="slide-up-and-fade">
-                                I&apos;m a frontend web developer dedicated to
-                                turning ideas into creative solutions. I
-                                specialize in creating seamless and intuitive
+                                I&apos;m a frontend web developer commited to
+                                turning user's vision into practical solutions. I
+                                specialize in creating ethereal and intuitive
                                 user experiences.
                             </p>
                             <p className="mt-3 slide-up-and-fade">
-                                My approach focuses on creating scalable,
+                                My approach centers on creating scalable,
                                 high-performing solutions tailored to both user
                                 needs and business objectives. By prioritizing
                                 performance, accessibility, and responsiveness,
-                                I strive to deliver experiences that not only
-                                engage users but also drive tangible results.
+                                I aim to deliver experiences that not only
+                                engage users but also strive tangible results.
                             </p>
                         </div>
                     </div>
