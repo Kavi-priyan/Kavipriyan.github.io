@@ -46,7 +46,7 @@ jobs:
       - name: Build and Export Next.js site
         run: |
           pnpm build
-          pnpm next export
+      
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
