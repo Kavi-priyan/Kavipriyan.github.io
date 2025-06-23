@@ -14,7 +14,7 @@ export const SOCIAL_LINKS = [
     { name: 'github', url: 'https://github.com/Kavi-priyan' },
     { name: 'linkedin', url: 'https://www.linkedin.com/in/kavi-priyan-26x12/' },
     { name: 'Instagram', url: 'https://www.instagram.com/the_kavipriyan/' },
-    { name: 'Old Version', url: GENERAL_INFO.oldPortfolio },
+  
 ];
 
 export const MY_STACK = {
