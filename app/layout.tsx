@@ -30,7 +30,7 @@ const robotoFlex = Roboto_Flex({
 
 export const metadata: Metadata = {
     title: 'Portfolio - Kavi Priyan',
-    description: 'Personal portfolio of Tajmirul Islam',
+    description: 'Personal portfolio of Kavi Priyan',
 };
 
 export default function RootLayout({
