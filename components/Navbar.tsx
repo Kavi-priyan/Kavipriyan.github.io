@@ -25,10 +25,10 @@ const MENU_LINKS = [
         name: 'Experience',
         url: '/#my-experience',
     },
-    {
-        name: 'Projects',
-        url: '/#selected-projects',
-    },
+    // {
+    //     name: 'Projects',
+    //     url: '/#selected-projects',
+    // },
 ];
 
 const Navbar = () => {
