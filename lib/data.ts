@@ -48,6 +48,11 @@ export const MY_STACK = {
             icon: '/logo/gsap.png',
         },
         {
+            name:'Figma',
+            icon:'/logo/figma-svgrepo-com.png',
+        },
+        
+        {
             name: 'Frammer Motion',
             icon: '/logo/framer-motion.png',
         },
@@ -291,4 +296,5 @@ export const MY_EXPERIENCE = [
     },
    
 ];
+
 
