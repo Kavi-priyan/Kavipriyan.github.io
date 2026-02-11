@@ -284,5 +284,11 @@ export const MY_EXPERIENCE = [
         company: 'Neura Technologies',
         duration: 'June 2024',
     },
+     {
+        title: 'Research Intern – NPTEL Winter Internship',
+        company: 'Indian Institute of Technology (IIT) Kharagpur',
+        duration: 'January 2026',
+    },
    
 ];
+
